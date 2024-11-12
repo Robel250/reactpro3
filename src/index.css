@@ -1,0 +1,59 @@
+.robi{
+    color:black;
+    font-weight: bold;
+}
+.line{
+    border: 1px solid lightblue;
+    width: 100%;
+    margin-top: 10px;
+}
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+   margin-top: 6px;
+}
+a{ padding: 5px;
+    color: black;
+}
+.NameAndNav{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+
+}
+.mainBody{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.mainBody h1{
+    font-weight: 100;
+    position: relative;
+    margin-top: 200px;
+
+}
+.footer1{
+    display: flex;
+    justify-content: space-around;
+   margin-top: 150px;
+   border-top: 1px solid lightblue;
+}
+.Fetures{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.resources{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.about{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
