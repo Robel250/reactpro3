@@ -4,7 +4,7 @@ function Header() {
   return (
     <div className=''>
      <div className='NameAndNav'>
-     <p className='robi'> company name</p>
+     <p  className='robi'> company name</p>
 
 
 <nav>
